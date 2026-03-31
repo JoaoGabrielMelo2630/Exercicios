@@ -1,0 +1,5 @@
+celsius = float(input('digite a temperatura em graus Celsius: '))
+
+fahrenheit = (celsius * 1 / 5 ) + 32
+
+print('Temperatura em graus fahrenheit é {}'.format(celsius))
