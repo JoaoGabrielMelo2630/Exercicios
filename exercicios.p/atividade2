@@ -1,0 +1,9 @@
+numero1 = int(input("Digite primeiro numero : "))
+numero2 = int(input("Digite segundo  numero : "))
+numero3 = int(input("Digite terceiro numero : "))
+numero4 = int(input("Digite quarto numero : "))
+numero5 = int(input("Digite o ultimo numero : "))
+
+calculo = numero1 + numero2 + numero3 + numero4 + numero5 / 5
+
+print(' A média aritmética e {}'.format(calculo))
